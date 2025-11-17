@@ -84,7 +84,7 @@ const SignUp = () => {
       {/* Circle Top Banner */}
       <div className="w-36 h-36 mx-auto -mt-24 rounded-full overflow-hidden shadow-lg border-4 border-white">
         <img
-          src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=600"
+          src="https://thumbs.dreamstime.com/b/happy-travel-woman-vacation-concept-funny-traveler-enjoy-her-trip-ready-to-adventure-happy-travel-woman-vacation-concept-118679424.jpg"
           alt="banner"
           className="w-full h-full object-cover"
         />

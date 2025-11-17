@@ -88,7 +88,7 @@ const Login = () => {
       {/* Circle Top Banner */}
       <div className="w-36 h-36 mx-auto -mt-24 rounded-full overflow-hidden shadow-lg border-4 border-white">
         <img
-          src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=600"
+          src="https://img.freepik.com/free-photo/woman-hand-holding-camera-standing-top-rock-nature-travel-concept_335224-887.jpg?semt=ais_incoming&w=740&q=80"
           alt="banner"
           className="w-full h-full object-cover"
         />
