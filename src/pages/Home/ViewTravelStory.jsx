@@ -5,7 +5,7 @@ import moment from "moment"
 import { FaLocationDot } from "react-icons/fa6"
 
 const ViewTravelStory = ({
-  storyInfo  = { visitedLocation: [], title: "", story: "", imageUrl: "", visitedDate: "" },
+  storyInfo  = { visitedLocation: [""], title: "", story: "", imageUrl: "", visitedDate: "" },
   onClose,
   onEditClick,
   onDeleteClick,
@@ -49,7 +49,8 @@ const ViewTravelStory = ({
                   storyInfo.visitedLocation.length === index + 1
                     ? `${item}`
                     : `${item},`
-                )}
+                      )}
+
             </div>
           </div>
         </div>

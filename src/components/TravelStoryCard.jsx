@@ -8,7 +8,7 @@ const TravelStoryCard = ({
   title,
   story,
   date,
-  visitedLocation = [],
+  visitedLocation = [""],
   isFavourite,
   onEdit,
   onClick,
